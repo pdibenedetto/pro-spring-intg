@@ -372,7 +372,7 @@
 				<groupId>commons-fileupload</groupId>
 				<artifactId>commons-fileupload</artifactId>
 				<scope>runtime</scope>
-				<version>1.2.1</version>
+				<version>1.5</version>
 			</dependency>
 			<dependency>
 				<groupId>log4j</groupId>
